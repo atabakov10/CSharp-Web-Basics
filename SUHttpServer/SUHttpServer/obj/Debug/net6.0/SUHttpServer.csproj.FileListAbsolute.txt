@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\SUHttpServer\SUHttpServer\bin\Debug\net6.0\SUHttpServer.exe
+C:\Users\HP\source\repos\SUHttpServer\SUHttpServer\bin\Debug\net6.0\SUHttpServer.deps.json
+C:\Users\HP\source\repos\SUHttpServer\SUHttpServer\bin\Debug\net6.0\SUHttpServer.runtimeconfig.json
+C:\Users\HP\source\repos\SUHttpServer\SUHttpServer\bin\Debug\net6.0\SUHttpServer.dll
+C:\Users\HP\source\repos\SUHttpServer\SUHttpServer\bin\Debug\net6.0\SUHttpServer.pdb
+C:\Users\HP\source\repos\SUHttpServer\SUHttpServer\obj\Debug\net6.0\SUHttpServer.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\SUHttpServer\SUHttpServer\obj\Debug\net6.0\SUHttpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\SUHttpServer\SUHttpServer\obj\Debug\net6.0\SUHttpServer.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\SUHttpServer\SUHttpServer\obj\Debug\net6.0\SUHttpServer.AssemblyInfo.cs
+C:\Users\HP\source\repos\SUHttpServer\SUHttpServer\obj\Debug\net6.0\SUHttpServer.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SUHttpServer\SUHttpServer\obj\Debug\net6.0\SUHttpServer.dll
+C:\Users\HP\source\repos\SUHttpServer\SUHttpServer\obj\Debug\net6.0\refint\SUHttpServer.dll
+C:\Users\HP\source\repos\SUHttpServer\SUHttpServer\obj\Debug\net6.0\SUHttpServer.pdb
+C:\Users\HP\source\repos\SUHttpServer\SUHttpServer\obj\Debug\net6.0\SUHttpServer.genruntimeconfig.cache
+C:\Users\HP\source\repos\SUHttpServer\SUHttpServer\obj\Debug\net6.0\ref\SUHttpServer.dll
